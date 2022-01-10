@@ -29,6 +29,11 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `yarn recomp`
+
+Builds the app to the production foler and launches iotnic-compiler building process
+to build mobile version of the app.\
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
