@@ -32,7 +32,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn recomp`
 
 Builds the app to the production foler and launches iotnic-compiler building process
-to build mobile version of the app.\
+to build mobile version of the app.
 
 ### `yarn eject`
 
